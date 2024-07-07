@@ -1,10 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Hello, World!\n");
-  printf("This is a test program.\n");
-  printf("This is a test program.\n");
-  printf("This is a test program.\n");
+  printf("Realze una modificacion \n");
   return 0;
-
 }
